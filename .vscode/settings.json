@@ -1,9 +1,0 @@
-{
-    "files.autoSave": "onFocusChange",
-    "files.autoSaveDelay": 100,
-    "python.autoComplete.extraPaths": [],
-    "javascript.suggest.enabled": false,
-    "typescript.suggest.enabled": false,
-    "javascript.suggest.completeJSDocs": false,
-    "typescript.suggest.completeJSDocs": false
-}
