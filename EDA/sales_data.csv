@@ -1,6 +1,6 @@
 Customer_ID,Age,City,Spending,Visits_Per_Month
 1,25,New York,500,2
-2,30,Los Angeles,700,4
+2,30,Los Angeles,700,null
 3,,Chicago,450,3
 4,45,Chicago,1500,10
 5,30,New York,,5
