@@ -1,51 +1,51 @@
-Customer_ID,Age,City,Spending,Visits_Per_Month
-1,29,Boston,450,2
-2,45,Seattle,1200,8
-3,,New York,800,5
-4,33,Chicago,600,
-5,61,Los Angeles,1500,10
-6,22,Miami,300,1
-7,110,Houston,8000,2
-8,38,Boston,950,4
-9,27,Seattle,,3
-10,54,New York,1100,7
-11,41,Chicago,720,5
-12,,Los Angeles,1400,9
-13,30,Miami,480,2
-14,25,Houston,550,3
-15,65,Boston,2000,12
-16,35,Seattle,890,6
-17,28,New York,620,4
-18,50,Chicago,,8
-19,42,Los Angeles,1350,7
-20,24,Miami,410,2
-21,115,Houston,7500,1
-22,31,Boston,680,4
-23,48,Seattle,1050,6
-24,37,New York,900,
-25,,Chicago,760,5
-26,55,Los Angeles,1600,10
-27,26,Miami,520,3
-28,34,Houston,840,4
-29,40,Boston,1150,7
-30,29,Seattle,700,4
-31,60,New York,1800,11
-32,32,Chicago,880,6
-33,47,Los Angeles,,8
-34,23,Miami,380,2
-35,39,Houston,950,5
-36,52,Boston,1450,9
-37,28,Seattle,650,3
-38,,New York,1250,7
-39,44,Chicago,1000,6
-40,120,Los Angeles,9000,2
-41,36,Miami,780,4
-42,30,Houston,600,3
-43,58,Boston,1750,10
-44,25,Seattle,490,2
-45,49,New York,1300,8
-46,33,Chicago,,5
-47,41,Los Angeles,1150,7
-48,27,Miami,540,3
-49,38,Houston,860,4
-50,53,Boston,1550,9
+Customer_ID,Age,City,Spending,Visits_Per_Month,Tier
+1,25,New York,500,2,Low-Tier
+2,30,Los Angeles,700,,Mid-Tier
+3,,Chicago,450,3,Low-Tier
+4,45,Chicago,1500,10,High-Value
+5,30,New York,,5,Low-Tier
+6,22,Los Angeles,600,2,Mid-Tier
+7,120,New York,5000,1,High-Value
+8,35,Houston,800,4,Mid-Tier
+9,28,Miami,300,1,Low-Tier
+10,50,Chicago,1200,8,High-Value
+11,41,New York,900,5,Mid-Tier
+12,,Los Angeles,450,3,Low-Tier
+13,29,Houston,550,2,Low-Tier
+14,33,Miami,750,5,Mid-Tier
+15,26,Chicago,,4,Low-Tier
+16,55,New York,1600,9,High-Value
+17,31,Los Angeles,850,6,Mid-Tier
+18,48,Houston,1100,7,Mid-Tier
+19,39,Miami,950,5,Mid-Tier
+20,24,Chicago,400,2,Low-Tier
+21,27,New York,550,3,Low-Tier
+22,42,Los Angeles,1300,8,High-Value
+23,36,Houston,850,4,Mid-Tier
+24,,Miami,600,3,Mid-Tier
+25,32,Chicago,700,5,Mid-Tier
+26,44,New York,1400,9,High-Value
+27,23,Los Angeles,480,2,Low-Tier
+28,115,Houston,6000,1,High-Value
+29,29,Miami,,4,Low-Tier
+30,47,Chicago,1450,10,High-Value
+31,38,New York,1000,6,Mid-Tier
+32,34,Los Angeles,820,5,Mid-Tier
+33,52,Houston,1550,9,High-Value
+34,25,Miami,450,2,Low-Tier
+35,30,Chicago,720,4,Mid-Tier
+36,,New York,980,6,Mid-Tier
+37,28,Los Angeles,580,3,Low-Tier
+38,40,Houston,1150,7,Mid-Tier
+39,35,Miami,880,5,Mid-Tier
+40,31,Chicago,,4,Low-Tier
+41,49,New York,1350,8,High-Value
+42,26,Los Angeles,510,2,Low-Tier
+43,37,Houston,920,6,Mid-Tier
+44,33,Miami,760,5,Mid-Tier
+45,45,Chicago,1250,7,High-Value
+46,29,New York,620,3,Mid-Tier
+47,53,Los Angeles,1700,10,High-Value
+48,,Houston,810,4,Mid-Tier
+49,27,Miami,530,2,Low-Tier
+50,32,Chicago,740,5,Mid-Tier
